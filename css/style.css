@@ -178,7 +178,7 @@ article>button {
 
 .hero {
   height: 100dvh;
-  background-image: url(../images/hero.jpg);
+  background-image: url(../image/hero.jpg);
   background-position: center;
   background-size: cover;
   color: #fff;
